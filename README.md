@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-murari&" alt="k-murari" /></p>
  <b> 
    <p>
-  <h2>This Project is based on the Steganography and Cryptography Methods </h2> 
+  <h2>This is the Problems for Java Beginners </h2> 
    </b>
 <br>
  <h3> Methods include: </h3> <br>
