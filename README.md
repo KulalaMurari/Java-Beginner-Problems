@@ -38,7 +38,7 @@
    </b>
 <br>
  <h3> Methods include: </h3> <br>
-    --> Addition of Two Num <br>
+    --> Addition of Two Num 
    
     </p>
 
