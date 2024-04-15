@@ -38,10 +38,8 @@
    </b>
 <br>
  <h3> Methods include: </h3> <br>
-    --> Image Steganography <br>
-    --> Audio Steganography <br>
-    --> File Crytography <br>
-    --> Base64 Cryptography <br>
+    --> Addition of Two Num <br>
+   
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
