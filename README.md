@@ -38,8 +38,8 @@
    </b>
 <br>
  <h3> Methods include: </h3> <br>
-    --> Addition of Two Num 
-   
+    --> Addition of Two Num <br>
+    --> Addition of Two Num with Scanner
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
