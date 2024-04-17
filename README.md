@@ -39,7 +39,8 @@
 <br>
  <h3> Methods include: </h3> <br>
     --> Addition of Two Num <br>
-    --> Addition of Two Num with Scanner
+    --> Addition of Two Num with Scanner <br>
+    --> Scanner
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
