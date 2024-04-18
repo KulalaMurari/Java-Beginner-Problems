@@ -1,8 +1,8 @@
-![MasterHead](https://th.bing.com/th/id/R.f12c6e6c173f0231a564dc88eefa568f?rik=%2fR7pESiY9%2bTm3Q&riu=http%3a%2f%2fwww.marctrenttucker.com%2fwp-content%2fuploads%2f2018%2f01%2fbanner_programming.png&ehk=K2otq%2b8XlGiw%2b6WT9wSgEKW13yn16OhOvzhh6UcqvTA%3d&risl=&pid=ImgRaw&r=0)
+![MasterHead]([https://th.bing.com/th/id/R.f12c6e6c173f0231a564dc88eefa568f?rik=%2fR7pESiY9%2bTm3Q&riu=http%3a%2f%2fwww.marctrenttucker.com%2fwp-content%2fuploads%2f2018%2f01%2fbanner_programming.png&ehk=K2otq%2b8XlGiw%2b6WT9wSgEKW13yn16OhOvzhh6UcqvTA%3d&risl=&pid=ImgRaw&r=0](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png))
 
 
 <h1 align="center">Hi 👋, I'm K MURARI</h1>
-<h3 align="center">A Passionate Programmer from India</h3>
+<h3 align="center">A Passionate Programmer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f3848914%2fprogrammer.gif&ehk=hANs%2bktW5sQlvyjDispeFdwwb0b3PsyP%2biI7wi0JgWw%3d">
 
@@ -29,9 +29,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kulalamurari&show_icons=true&locale=en&layout=compact" alt="k-murari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-murari&show_icons=true&locale=en" alt="k-murari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulalamurari&show_icons=true&locale=en" alt="k-murari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-murari&" alt="k-murari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kulalamurari&" alt="k-murari" /></p>
  <b> 
    <p>
   <h2>This is the Problems for Java Beginners </h2> 
