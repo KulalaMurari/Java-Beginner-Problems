@@ -1,4 +1,4 @@
-![MasterHead]([https://th.bing.com/th/id/R.f12c6e6c173f0231a564dc88eefa568f?rik=%2fR7pESiY9%2bTm3Q&riu=http%3a%2f%2fwww.marctrenttucker.com%2fwp-content%2fuploads%2f2018%2f01%2fbanner_programming.png&ehk=K2otq%2b8XlGiw%2b6WT9wSgEKW13yn16OhOvzhh6UcqvTA%3d&risl=&pid=ImgRaw&r=0](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png))
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 
 
 <h1 align="center">Hi 👋, I'm K MURARI</h1>
