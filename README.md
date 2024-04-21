@@ -37,7 +37,7 @@
   <h2>This is the Problems for Java Beginners </h2> 
    </b>
 <br>
- <h3> Methods include: </h3> <br>
+ <h3> Programs included: </h3> <br>
     --> Addition of Two Num <br>
     --> Addition of Two Num with Scanner <br>
     --> Calculator <br>
