@@ -41,7 +41,8 @@
     --> Addition of Two Num <br>
     --> Addition of Two Num with Scanner <br>
     --> Calculator <br>
-    --> Two Num Comparision
+    --> Two Num Comparision <br>
+    --> Three Num Comparision <br>
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
