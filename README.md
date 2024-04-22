@@ -43,6 +43,7 @@
     --> Calculator <br>
     --> Two Num Comparision <br>
     --> Three Num Comparision <br>
+    --> Multiples of five <br>
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
