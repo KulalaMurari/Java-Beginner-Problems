@@ -44,6 +44,7 @@
     --> Two Num Comparision <br>
     --> Three Num Comparision <br>
     --> Multiples of five <br>
+    --> Multiples of five with Scanner class <br>
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
