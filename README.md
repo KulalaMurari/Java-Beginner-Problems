@@ -46,6 +46,7 @@
     --> Multiples of five <br>
     --> Multiples of five with Scanner class <br>
     --> Infinite Loop <br>
+    --> Fibonacci <br>
     </p>
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
